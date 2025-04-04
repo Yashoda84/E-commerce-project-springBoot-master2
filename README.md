@@ -66,23 +66,23 @@ spring.jpa.hibernate.ddl-auto=update <br>
 ## Preview :
 
 #### Products 
-<img width="960" alt="Product Page" src="https://github.com/SnehalAShinde/Spring_Boot_Project/assets/126142130/afbd9286-8ca1-4708-9586-b6fed113cac3">
+<img width="960" alt="Product Page" src="[https://github.com/Yashoda84/Spring_Boot_Project/assets/126142130/afbd9286-8ca1-4708-9586-b6fed113cac3">
 
 
 
 #### Location 
 
-<img width="960" alt="Location page" src="https://github.com/SnehalAShinde/Spring_Boot_Project/assets/126142130/880e2a07-f155-4f22-baa6-ce7a5377a379">
+<img width="960" alt="Product Page" src="[https://github.com/Yashoda84/Spring_Boot_Project/assets/126142130/afbd9286-8ca1-4708-9586-b6fed113cac3">
 
 
 #### Login Page
 
-<img width="960" alt="Login Page" src="https://github.com/SnehalAShinde/Spring_Boot_Project/assets/126142130/29641b29-9181-4ac9-8037-5740baf269ff">
+<img width="960" alt="Product Page" src="[https://github.com/Yashoda84/Spring_Boot_Project/assets/126142130/afbd9286-8ca1-4708-9586-b6fed113cac3">
 
 
 #### AdminPanel
 
 
-<img width="960" alt="Admin Page" src="https://github.com/SnehalAShinde/Spring_Boot_Project/assets/126142130/54684ea2-e0f0-456f-9c35-d98b0a30e3e1">
+<img width="960" alt="Product Page" src="[https://github.com/Yashoda84/Spring_Boot_Project/assets/126142130/afbd9286-8ca1-4708-9586-b6fed113cac3">
 
 
